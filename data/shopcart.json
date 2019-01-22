@@ -1,0 +1,112 @@
+{
+        "headTit":"我的购物袋",
+        "checked":true,
+        "manage":"管理",
+        "shopCartBar":["Bloomingdale's","Zappos","Saks OFF 5Th","Lancome"],
+        "cartSection":{
+              "sTop":"查看更多Bloomingdale's商品",
+              "img1":"../../../static/img/black-jt.jpg",
+              "img2":"../../../static/img/checked.jpg"
+        },
+        "shops":[
+            {
+              "shopName" : "新菁唇润店铺",
+              "shopTotalPrice" : 0.0,
+              "checked" : true,
+              "products":[
+                {
+                  "goodsImg":"../../../static/img/goods1.jpg",
+                  "sendImg":"../../../static/img/convinient.jpg",
+                  "goodsName":"Lancome | 新菁纯柔润唇膏",
+                  "goodsColor":"颜色：114 Amuse-Bouche",
+                  "sendWay":"支持便捷直邮",
+                  "goodsPrice":"32.00",
+                  "goodsCard":"225",
+                  "straight":"美妆直通车",
+                  "goodsNum":"1",
+                  "checked":true
+                },
+                {
+                  "goodsImg":"../../../static/img/goods2.jpg",
+                  "sendImg":"../../../static/img/convinient.jpg",
+                  "goodsName":"MICHAE | 大号斜挎包",
+                  "goodsColor":"颜色：Bright Red",
+                  "sendWay":"支持便捷直邮",
+                  "goodsPrice":"99.00",
+                  "goodsCard":"692",
+                  "straight":"美妆直通车",
+                  "goodsNum":"1",
+                  "checked":true
+                }
+              ]
+            },
+            {
+              "shopName" : "精美小饰品店铺",
+              "shopTotalPrice" : 0.0,
+              "checked" : true,
+              "products":[
+                {
+                  "goodsImg":"../../../static/img/goods1.jpg",
+                  "sendImg":"../../../static/img/convinient.jpg",
+                  "goodsName":"Lancome | 新菁纯柔润唇膏",
+                  "goodsColor":"颜色：114 Amuse-Bouche",
+                  "sendWay":"支持便捷直邮",
+                  "goodsPrice":"32.00",
+                  "goodsCard":"225",
+                  "straight":"美妆直通车",
+                  "goodsNum":"1",
+                  "checked":true
+                },
+                {
+                  "goodsImg":"../../../static/img/goods2.jpg",
+                  "sendImg":"../../../static/img/convinient.jpg",
+                  "goodsName":"MICHAE | 大号斜挎包",
+                  "goodsColor":"颜色：Bright Red",
+                  "sendWay":"支持便捷直邮",
+                  "goodsPrice":"99.00",
+                  "goodsCard":"692",
+                  "straight":"美妆直通车",
+                  "goodsNum":"1",
+                  "checked":true
+                }
+              ]
+            }
+        ],
+
+        "secConInfo":{
+                "rightLi":"结算信息根据国内地址估算",
+                "rightP":"商品合计",
+                "code1":"32.00",
+                "xiaofei":"消费税",
+                "img0":"../../../static/img/h1.jpg",
+                "img1":"../../../static/img/h3.jpg",
+                "code2":"0.00",
+                "img2":"../../../static/img/h2.jpg",
+                "img3":"../../../static/img/rr-jt.jpg",
+                "img4":"../../../static/img/xia-jt.jpg",
+                "txt":"商家美国境内运费",
+                "spanCon":"Bloomingdale's",
+                "titTxt":"限时:全场免商家运费 ",
+                "price":"0.00"
+        },
+        "secConBot":{
+                "img0":"../../../static/img/h6.jpg",
+                "rightLi":"国际物流",
+                "rightP":"国际消费$7.60+预收税$11.09",
+                "code1":"18.69",
+                "youhui":"预收关税限时优惠",
+                "img1":"../../../static/img/h3.jpg",
+                "code2":"3.69",
+                "img2":"../../../static/img/h4.jpg",
+                "img3":"../../../static/img/rr-jt.jpg",
+                "img4":"../../../static/img/xia-jt.jpg",
+                "txt":"别样代金券",
+                "spanCon":"Bloomingdale's",
+                "titTxt":"限时:全场免商家运费 ",
+                "price":"0.00",
+                "img5":"../../../static/img/h5.jpg",
+                "txt2":"可用积分304",
+                "titTxt2":"最低可用额度:1美元 ",
+                "img6":"../../../static/img/xia-jt.jpg"
+        }
+}

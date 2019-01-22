@@ -1,0 +1,107 @@
+{
+    "menuList":["最新","潮鞋","美妆","鞋包","服饰","男士","户外","健康","母婴","科技"],
+    "icon" :  "../../static/img/search.png",
+    "icon1" :   "../../static/img/message.png",
+    "idxBigSlider":["../../static/img/s1.jpg","../../static/img/s2.jpg","../../static/img/s3.jpg","../../static/img/s4.jpg","../../static/img/s5.jpg","../../static/img/s1.jpg"],
+    "icons":[
+            {"pic":"../../static/img/font1.jpg","con":"机器人下单"},
+            {"pic":"../../static/img/font2.jpg","con":"官网直邮"},
+            {"pic":"../../static/img/font3.jpg","con":"正品保障"}
+    ],
+
+    "clothing":{
+        "title":{
+            "pic1":"../../../static/img/shaow_left.jpg",
+            "bieyang":"别样",
+            "packge":"新人大礼包",
+            "updater":"全款升级",
+            "pic2":"../../static/img/shandow_right.jpg",
+            "font1":"$100全场通用+$88商家好礼 | ",
+            "font2":"点击领取",
+            "pic3":"../../static/img/w_jt.jpg",
+            "font4":"全场通用 | ",
+            "h2Num":"11张",
+            "h2Code":"可领",
+            "h2Desc":"$50减8",
+            "pic4":"../../static/img/red_jt.jpg",
+            "pic5":"../../static/img/t1.jpg",
+            "pic5Price":"$38.00",
+            "pic6":"../../static/img/t2.jpg",
+            "pic6Price":"$35.00",
+            "pic7":"../../static/img/t3.jpg",
+            "pic7Price":"$19.95起",
+            "words1H2":"别样正品保障",
+            "words1P":"你要了解的二三事",
+            "words1img":"../../static/img/zhengpin.jpg",
+            "words2H2":"海淘攻略",
+            "words2P":"带你成为海淘老司机",
+            "words2img":"../../static/img/ss.jpg",
+            "glH2":"今日热门商品推荐",
+            "glShandow":"活动过期",
+            "glP":"全网热门好贷大盘点",
+            "img1":"../../static/img/dot2.jpg",
+            "activity":"精选活动",
+            "img2":"../../static/img/activity.jpg",
+            "img3":"../../static/img/logo.jpg",
+            "img4":"../../static/img/flower.jpg",
+            "plogo":"留言送礼 | 这次送： 别样wow宝盒 ",
+            "intro":"别样粉丝专享 · 另赠10颗丝绒美妆蛋",
+            "img5":"../../static/img/americ.jpg",
+            "img6":"../../static/img/m1.jpg",
+            "img7":"../../static/img/m2.jpg",
+            "img8":"../../static/img/m3.jpg",
+            "img6Con":"兰蔻",
+            "img7Con":"YSL",
+            "img8Con":"科颜氏"
+        },
+        "hs":"服装鞋包折上8折",
+        "timeout":"限时",
+        "shadow":"三宅一生/菲拉格慕/Marc Jacobs",
+        "goodsMenu1":[
+            {
+                "img":"../../static/img/g1.jpg",
+                "tit":"粉水清滢柔肤水，效果很棒",
+                "money":"$23.40",
+                "disc":"$26"
+            },
+            {
+                "img":"../../static/img/g2.jpg",
+                "tit":"新菁纯柔润唇膏，效果很棒",
+                "money":"$28.80",
+                "disc":"$32"
+            },
+            {
+                "img":"../../static/img/g3.jpg",
+                "tit":"小黑瓶精华肌肤底液，效果很棒",
+                "money":"$70.20",
+                "disc":"$78"
+            }
+        ],
+        "goodsMenu2":[
+            {
+                "img":"../../static/img/g4.jpg",
+                "tit":"大眼精华眼部精华液，效果很棒",
+                "money":"$62.10",
+                "disc":"$26"
+            },
+            {
+                "img":"../../static/img/g5.jpg",
+                "tit":"24小时不脱妆粉底液，效果很棒",
+                "money":"$28.80",
+                "disc":"$32"
+            },
+            {
+                "img":"../../static/img/g6.jpg",
+                "tit":"广角羽扇晕染液，效果很棒",
+                "money":"$70.20",
+                "disc":"$78"
+            }
+        ],
+        "doudou":[
+            {"img":"../../static/img/dot1.jpg"},
+            {"img":"../../static/img/dot2.jpg"},
+            {"img":"../../static/img/dot2.jpg"}
+        ]
+
+    }
+}

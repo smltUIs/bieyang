@@ -1,0 +1,632 @@
+{
+
+  "finddata": {
+    "headImg": "../../../static/img/search.png",
+    "sectionInfo": {
+      "aside": [
+        {
+          "tit": "热门推荐",
+          "route": "/find"
+        },
+        {
+          "tit": "女款时尚",
+          "route": "/female"
+        },
+        {
+          "tit": "护肤美妆",
+          "route": "/beauty"
+        },
+        {
+          "tit": "男款精品",
+          "route": "/male"
+        },
+        {
+          "tit": "少年儿童",
+          "route": ""
+        },
+        {
+          "tit": "生活家居",
+          "route": ""
+        },
+        {
+          "tit": "健康营养品",
+          "route": ""
+        }
+      ],
+      "container1":{
+          "show":true,
+          "bgImg": "../../../static/img/bgImg.jpg",
+          "hotTit": "热门分类",
+          "ulBox": [
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/r1.jpg",
+                  "pCon": "唇部彩妆"
+                },
+                {
+                  "img": "../../../static/img/r2.jpg",
+                  "pCon": "眼部彩妆"
+                },
+                {
+                  "img": "../../../static/img/r3.jpg",
+                  "pCon": "护肤防晒"
+                }
+              ]
+            },
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/r4.jpg",
+                  "pCon": "眼部护理"
+                },
+                {
+                  "img": "../../../static/img/r5.jpg",
+                  "pCon": "女款鞋靴"
+                },
+                {
+                  "img": "../../../static/img/r6.jpg",
+                  "pCon": "女款包袋"
+                }
+              ]
+            },
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/r7.jpg",
+                  "pCon": "男款T恤"
+                },
+                {
+                  "img": "../../../static/img/r8.jpg",
+                  "pCon": "儿童鞋靴"
+                },
+                {
+                  "img": "../../../static/img/r9.jpg",
+                  "pCon": "配饰"
+                }
+              ]
+            }
+          ],
+          "hotShop": "热门商家",
+          "secArt": {
+              "ulBox": [
+                {
+                  "lis": [
+                    {
+                      "img": "../../../static/img/l1.jpg"
+                    },
+                    {
+                      "img": "../../../static/img/l2.jpg"
+                    },
+                    {
+                      "img": "../../../static/img/l3.jpg"
+                    }
+                  ]
+                },
+                {
+                  "lis": [
+                    {
+                      "img": "../../../static/img/l4.jpg"
+                    },
+                    {
+                      "img": "../../../static/img/l5.jpg"
+                    },
+                    {
+                      "img": "../../../static/img/l6.jpg"
+                    }
+                  ]
+                }
+              ],
+              "hotBand": "热门品牌",
+              "ulBox2": [
+                {
+                  "lis": [
+                    {
+                      "img": "../../../static/img/b1.jpg"
+                    },
+                    {
+                      "img": "../../../static/img/b2.jpg"
+                    },
+                    {
+                      "img": "../../../static/img/b3.jpg"
+                    }
+                  ]
+                },
+                {
+                  "lis": [
+                    {
+                      "img": "../../../static/img/b4.jpg"
+                    },
+                    {
+                      "img": "../../../static/img/b5.jpg"
+                    },
+                    {
+                      "img": "../../../static/img/b6.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+
+        },
+      "container2": {
+        "bgTit": {
+          "show":false,
+          "hotTit": "服装",
+          "ulBox": [
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/c1.jpg",
+                  "pCon": "大衣"
+                },
+                {
+                  "img": "../../../static/img/c2.jpg",
+                  "pCon": "上衣"
+                },
+                {
+                  "img": "../../../static/img/c3.jpg",
+                  "pCon": "毛衣"
+                }
+              ]
+            },
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/c4.jpg",
+                  "pCon": "T恤/Polo"
+                },
+                {
+                  "img": "../../../static/img/c5.jpg",
+                  "pCon": "夹克"
+                },
+                {
+                  "img": "../../../static/img/c6.jpg",
+                  "pCon": "连体衣"
+                }
+              ]
+            },
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/c7.jpg",
+                  "pCon": "半裙"
+                },
+                {
+                  "img": "../../../static/img/c8.jpg",
+                  "pCon": "连衣裙"
+                },
+                {
+                  "img": "../../../static/img/c9.jpg",
+                  "pCon": "牛仔丹宁"
+                }
+              ]
+            },
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/c10.jpg",
+                  "pCon": "短裤"
+                },
+                {
+                  "img": "../../../static/img/c11.jpg",
+                  "pCon": "裤装"
+                },
+                {
+                  "img": "../../../static/img/c12.jpg",
+                  "pCon": "运动/泳装"
+                }
+              ]
+            }
+          ],
+          "shoes": "鞋靴",
+          "ulBox2": [
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/x1.jpg",
+                  "pCon": "运动休闲"
+                },
+                {
+                  "img": "../../../static/img/x2.jpg",
+                  "pCon": "靴子踝靴"
+                },
+                {
+                  "img": "../../../static/img/x3.jpg",
+                  "pCon": "平底鞋"
+                }
+              ]
+            },
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/x4.jpg",
+                  "pCon": "厚底粗跟"
+                },
+                {
+                  "img": "../../../static/img/x5.jpg",
+                  "pCon": "凉鞋凉拖"
+                },
+                {
+                  "img": "../../../static/img/x6.jpg",
+                  "pCon": "坡跟鞋"
+                }
+              ]
+            },
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/x7.jpg",
+                  "pCon": "船鞋牛津"
+                },
+                {
+                  "img": "../../../static/img/x8.jpg",
+                  "pCon": "雨鞋雨靴"
+                },
+                {
+                  "img": "../../../static/img/x9.jpg",
+                  "pCon": "鞋靴配件"
+                }
+              ]
+            }
+          ],
+          "bags": "包袋",
+          "ulBox3": [
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/d1.jpg",
+                  "pCon": "背包"
+                },
+                {
+                  "img": "../../../static/img/d2.jpg",
+                  "pCon": "手拿包"
+                },
+                {
+                  "img": "../../../static/img/d3.jpg",
+                  "pCon": "单肩斜跨"
+                }
+              ]
+            },
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/d4.jpg",
+                  "pCon": "妈咪袋"
+                },
+                {
+                  "img": "../../../static/img/d5.jpg",
+                  "pCon": "手提袋"
+                },
+                {
+                  "img": "../../../static/img/d6.jpg",
+                  "pCon": "钱包"
+                }
+              ]
+            },
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/d7.jpg",
+                  "pCon": "化妆包"
+                },
+                {
+                  "img": "../../../static/img/d8.jpg",
+                  "pCon": "旅行箱包"
+                },
+                {
+                  "img": "../../../static/img/d9.jpg",
+                  "pCon": "迷你包"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "container3": {
+            "bgTit": {
+              "show":false,
+              "beauty": "美妆彩妆",
+              "ulBox": [
+                {
+                  "lis": [
+                    {
+                      "img": "../../../static/img/z1.jpg",
+                      "pCon": "面部彩妆"
+                    },
+                    {
+                      "img": "../../../static/img/z2.jpg",
+                      "pCon": "眼部彩妆"
+                    },
+                    {
+                      "img": "../../../static/img/z3.jpg",
+                      "pCon": "唇部彩妆"
+                    }
+                  ]
+                },
+                {
+                  "lis": [
+                    {
+                      "img": "../../../static/img/z4.jpg",
+                      "pCon": "彩妆盒"
+                    },
+                    {
+                      "img": "../../../static/img/z5.jpg",
+                      "pCon": "美妆套装"
+                    },
+                    {
+                      "img": "../../../static/img/z6.jpg",
+                      "pCon": "卸妆"
+                    }
+                  ]
+                },
+                {
+                  "lis": [
+                    {
+                      "img": "../../../static/img/z1.jpg",
+                      "pCon": "面部彩妆"
+                    },
+                    {
+                      "img": "../../../static/img/z2.jpg",
+                      "pCon": "眼部彩妆"
+                    },
+                    {
+                      "img": "../../../static/img/z3.jpg",
+                      "pCon": "唇部彩妆"
+                    }
+                  ]
+                },
+                {
+                  "lis": [
+                    {
+                      "img": "../../../static/img/z4.jpg",
+                      "pCon": "彩妆盒"
+                    },
+                    {
+                      "img": "../../../static/img/z5.jpg",
+                      "pCon": "美妆套装"
+                    },
+                    {
+                      "img": "../../../static/img/z6.jpg",
+                      "pCon": "卸妆"
+                    }
+                  ]
+                }
+
+              ],
+              "goodlook": "护肤养颜",
+              "ulBox2": [
+                {
+                  "lis": [
+                    {
+                      "img": "../../../static/img/y1.jpg",
+                      "pCon": "清洁"
+                    },
+                    {
+                      "img": "../../../static/img/y2.jpg",
+                      "pCon": "保湿润肤"
+                    },
+                    {
+                      "img": "../../../static/img/y3.jpg",
+                      "pCon": "眼部护理"
+                    }
+                  ]
+                },
+                {
+                  "lis": [
+                    {
+                      "img": "../../../static/img/y4.jpg",
+                      "pCon": "精华"
+                    },
+                    {
+                      "img": "../../../static/img/y5.jpg",
+                      "pCon": "面膜"
+                    },
+                    {
+                      "img": "../../../static/img/y6.jpg",
+                      "pCon": "护肤工具"
+                    }
+                  ]
+                },
+                {
+                  "lis": [
+                    {
+                      "img": "../../../static/img/y7.jpg",
+                      "pCon": "防晒"
+                    },
+                    {
+                      "img": "../../../static/img/y8.jpg",
+                      "pCon": "护肤套装"
+                    },
+                    {
+                      "img": "../../../static/img/y9.jpg",
+                      "pCon": "护肤营养品"
+                    }
+                  ]
+                }
+              ],
+              "bags": "包袋",
+              "ulBox3": [
+                {
+                  "lis": [
+                    {
+                      "img": "../../../static/img/d1.jpg",
+                      "pCon": "背包"
+                    },
+                    {
+                      "img": "../../../static/img/d2.jpg",
+                      "pCon": "手拿包"
+                    },
+                    {
+                      "img": "../../../static/img/d3.jpg",
+                      "pCon": "单肩斜跨"
+                    }
+                  ]
+                },
+                {
+                  "lis": [
+                    {
+                      "img": "../../../static/img/d4.jpg",
+                      "pCon": "妈咪袋"
+                    },
+                    {
+                      "img": "../../../static/img/d5.jpg",
+                      "pCon": "手提袋"
+                    },
+                    {
+                      "img": "../../../static/img/d6.jpg",
+                      "pCon": "钱包"
+                    }
+                  ]
+                },
+                {
+                  "lis": [
+                    {
+                      "img": "../../../static/img/d7.jpg",
+                      "pCon": "化妆包"
+                    },
+                    {
+                      "img": "../../../static/img/d8.jpg",
+                      "pCon": "旅行箱包"
+                    },
+                    {
+                      "img": "../../../static/img/d9.jpg",
+                      "pCon": "迷你包"
+                    }
+                  ]
+                }
+              ]
+            }
+      },
+      "container4": {
+        "bgTit": {
+          "show":false,
+          "hotTit": "服装",
+          "ulBox": [
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/n1.jpg",
+                  "pCon": "大衣夹克"
+                },
+                {
+                  "img": "../../../static/img/n2.jpg",
+                  "pCon": "西装西裤"
+                },
+                {
+                  "img": "../../../static/img/n3.jpg",
+                  "pCon": "衬衫"
+                }
+              ]
+            },
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/n4.jpg",
+                  "pCon": "上衣"
+                },
+                {
+                  "img": "../../../static/img/n5.jpg",
+                  "pCon": "毛衣"
+                },
+                {
+                  "img": "../../../static/img/n6.jpg",
+                  "pCon": "T恤/Polo"
+                }
+              ]
+            },
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/n7.jpg",
+                  "pCon": "裤子"
+                },
+                {
+                  "img": "../../../static/img/n8.jpg",
+                  "pCon": "牛仔"
+                },
+                {
+                  "img": "../../../static/img/n9.jpg",
+                  "pCon": "短裤"
+                }
+              ]
+            }
+          ],
+          "shoes": "鞋子",
+          "ulBox2": [
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/nx1.jpg",
+                  "pCon": "运动鞋"
+                },
+                {
+                  "img": "../../../static/img/nx2.jpg",
+                  "pCon": "靴子"
+                },
+                {
+                  "img": "../../../static/img/nx3.jpg",
+                  "pCon": "正装鞋"
+                }
+              ]
+            },
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/nx4.jpg",
+                  "pCon": "休闲鞋"
+                },
+                {
+                  "img": "../../../static/img/nx5.jpg",
+                  "pCon": "凉鞋"
+                },
+                {
+                  "img": "../../../static/img/nx6.jpg",
+                  "pCon": "居家鞋"
+                }
+              ]
+            }
+          ],
+          "bags": "包",
+          "ulBox3": [
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/bb1.jpg",
+                  "pCon": "背包"
+                },
+                {
+                  "img": "../../../static/img/bb2.jpg",
+                  "pCon": "单肩包"
+                },
+                {
+                  "img": "../../../static/img/bb3.jpg",
+                  "pCon": "公文包"
+                }
+              ]
+            },
+            {
+              "lis": [
+                {
+                  "img": "../../../static/img/bb4.jpg",
+                  "pCon": "钱包"
+                },
+                {
+                  "img": "../../../static/img/bb5.jpg",
+                  "pCon": "手提包"
+                },
+                {
+                  "img": "../../../static/img/bb6.jpg",
+                  "pCon": "旅行箱包"
+                }
+              ]
+            }
+          ]
+        }
+      }
+
+    }
+  }
+}
+
+

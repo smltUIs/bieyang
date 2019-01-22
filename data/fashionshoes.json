@@ -1,0 +1,195 @@
+{
+    "serachImg":"../../../static/img/search.png",
+    "messageImg":"../../../static/img/message.png",
+    "menu":["最新","潮鞋","美妆","鞋包","服饰","男士","户外","健康","母婴","科技"],
+    "mainList":[
+        {
+            "img1":"../../../static/img/cx1.jpg",
+            "date":"YOOX 12/15",
+            "pCon1":"Y-3高端潮鞋",
+            "pCon2":"你没看错2.2折起",
+            "small1":"更多款式",
+            "img2":"../../../static/img/more.jpg",
+            "span1":"胖虎",
+            "span2":"推荐"
+        },
+        {
+          "img1":"../../../static/img/cx2.jpg",
+          "date":"Barneys New 12/15",
+          "pCon1":"McQueen",
+          "pCon2":"时尚鬼才的小白鞋",
+          "small1":"低至3.9折",
+          "limitTime":"限时",
+          "img2":"../../../static/img/more2.jpg",
+          "span1":"胖虎",
+          "span2":"推荐"
+        },
+        {
+          "img1":"../../../static/img/cx3.jpg",
+          "date":"Finish Line 12/07",
+          "pCon1":"Adidas低至45折",
+          "pCon2":"满$150再减$15",
+          "small1":"小椰子尺码全",
+          "img2":"../../../static/img/more2.jpg",
+          "span1":"圆圆",
+          "span2":"推荐"
+        },
+        {
+          "img1":"../../../static/img/cx4.jpg",
+          "date":"Zappos 12/07",
+          "pCon1":"Vans万年经典款",
+          "pCon2":"中美价差快￥200",
+          "img2":"../../../static/img/more2.jpg",
+          "span1":"胖虎",
+          "span2":"推荐"
+        },
+        {
+          "img1":"../../../static/img/cx5.jpg",
+          "date":"Finish Line 12/07",
+          "pCon1":"锐步Reebok DMX",
+          "pCon2":"当老爹遇上未来",
+          "small1":"折扣继续，好评不断",
+          "img2":"../../../static/img/more2.jpg",
+          "span1":"胖虎",
+          "span2":"推荐"
+        },
+        {
+          "img1":"../../../static/img/cx6.jpg",
+          "date":"Finish Line 12/07",
+          "pCon1":"童款耐克乔丹",
+          "pCon2":"5折热卖中",
+          "small1":"也有大童款哦",
+          "img2":"../../../static/img/more2.jpg",
+          "limitTime":"限时",
+          "span1":"Lily",
+          "span2":"推荐"
+        },
+        {
+          "img1":"../../../static/img/cx7.jpg",
+          "date":"Finish Line 12/07",
+          "pCon1":"Nike匡威超值必败",
+          "pCon2":"用生命挑选好物",
+          "small1":"M2K史低折扣",
+          "limitTime":"限时",
+          "img2":"../../../static/img/more2.jpg",
+          "span1":"胖虎",
+          "span2":"推荐"
+        },
+        {
+          "img1":"../../../static/img/cx8.jpg",
+          "date":"Finish Line 12/07",
+          "pCon1":"超嗲蝴蝶结",
+          "pCon2":"5折Puma温柔粉",
+          "small1":"也有大童款哦",
+          "limitTime":"限时",
+          "img2":"../../../static/img/more2.jpg",
+          "span1":"richhh桑",
+          "span2":"推荐"
+        },
+        {
+          "img1":"../../../static/img/cx9.jpg",
+          "date":"Zappos 12/05",
+          "pCon1":"据说每个人都",
+          "pCon2":"应该有一双马丁靴",
+          "small1":"M2K史低折扣",
+          "img2":"../../../static/img/more2.jpg",
+          "limitTime":"限时",
+          "span1":"阿次",
+          "span2":"推荐"
+        },
+        {
+          "img1":"../../../static/img/cx1.jpg",
+          "date":"YOOX 12/15",
+          "pCon1":"Y-3高端潮鞋",
+          "pCon2":"你没看错2.2折起",
+          "small1":"更多款式",
+          "img2":"../../../static/img/more.jpg",
+          "span1":"胖虎",
+          "span2":"推荐"
+        },
+        {
+          "img1":"../../../static/img/cx2.jpg",
+          "date":"Barneys New 12/15",
+          "pCon1":"McQueen",
+          "pCon2":"时尚鬼才的小白鞋",
+          "small1":"低至3.9折",
+          "img2":"../../../static/img/more2.jpg",
+          "limitTime":"限时",
+          "span1":"胖虎",
+          "span2":"推荐"
+        },
+        {
+          "img1":"../../../static/img/cx3.jpg",
+          "date":"Finish Line 12/07",
+          "pCon1":"Adidas低至45折",
+          "pCon2":"满$150再减$15",
+          "small1":"小椰子尺码全",
+          "img2":"../../../static/img/more2.jpg",
+          "span1":"圆圆",
+          "span2":"推荐"
+        },
+        {
+          "img1":"../../../static/img/cx4.jpg",
+          "date":"Zappos 12/07",
+          "pCon1":"Vans千万年轻经典款",
+          "pCon2":"中美价差快￥200",
+          "img2":"../../../static/img/more2.jpg",
+          "span1":"胖虎",
+          "span2":"推荐"
+        },
+        {
+          "img1":"../../../static/img/cx5.jpg",
+          "date":"Finish Line 12/07",
+          "pCon1":"锐步Reebok DMX",
+          "pCon2":"当老爹遇上未来",
+          "small1":"折扣继续，好评不断",
+          "img2":"../../../static/img/more2.jpg",
+          "span1":"胖虎",
+          "span2":"推荐"
+        },
+        {
+          "img1":"../../../static/img/cx6.jpg",
+          "date":"Finish Line 12/07",
+          "pCon1":"童款耐克乔丹",
+          "pCon2":"5折热卖中",
+          "small1":"也有大童款哦",
+          "limitTime":"限时",
+          "img2":"../../../static/img/more2.jpg",
+          "span1":"Lily",
+          "span2":"推荐"
+        },
+        {
+          "img1":"../../../static/img/cx7.jpg",
+          "date":"Finish Line 12/07",
+          "pCon1":"Nike匡威超值必败",
+          "pCon2":"用生命挑选好物",
+          "small1":"M2K史低折扣",
+          "img2":"../../../static/img/more2.jpg",
+          "limitTime":"限时",
+          "span1":"胖虎",
+          "span2":"推荐"
+        },
+        {
+          "img1":"../../../static/img/cx8.jpg",
+          "date":"Finish Line 12/07",
+          "pCon1":"超嗲蝴蝶结",
+          "pCon2":"5折Puma温柔粉",
+          "small1":"也有大童款哦",
+          "img2":"../../../static/img/more2.jpg",
+          "limitTime":"限时",
+          "span1":"richhh桑",
+          "span2":"推荐"
+        },
+        {
+          "img1":"../../../static/img/cx9.jpg",
+          "date":"Zappos 12/05",
+          "pCon1":"据说每个人都",
+          "pCon2":"应该有一双马丁靴",
+          "small1":"M2K史低折扣",
+          "img2":"../../../static/img/more2.jpg",
+          "limitTime":"限时",
+          "span1":"阿次",
+          "span2":"推荐"
+        }
+    ]
+}

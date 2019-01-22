@@ -1,0 +1,195 @@
+{
+    "headBar":{
+      "img1":"../../../static/img/r-jt.jpg",
+      "goodsName":"兰蔻",
+      "img2":"../../../static/img/back.jpg"
+    },
+    "goodsCon":{
+        "topTit":"Lancome | 新菁纯柔润唇膏",
+        "secTit":"Lancome | L‘Absolu Rouge Renovation Hydrating Shaping Lipcolor",
+        "goodsPrice":"$32(约￥225)",
+        "straight":"美妆直通车"
+    },
+    "colorType":{
+        "colorTit":"颜色：",
+        "colorList":[
+            {
+                "divCon":[
+                    {"con":"00  Invisible"},
+                    {"con":"112  Mars"}
+                ]
+            },
+            {
+                "divCon":[
+                    {"con":"124  Re Petale"},
+                    {"con":"132  Caprice"}
+                ]
+            },
+            {
+                "divCon":[
+                    {"con":"114  Amuse-Bouche"},
+                    {"con":"120  Sienna Ultime"}
+                ]
+            },
+            {
+                "divCon":[
+                    {"con":"124  Re Petale"},
+                    {"con":"132  Caprice"}
+                ]
+            },
+            {
+                "divCon":[
+                    {"con":"151  Absolute Rouge"},
+                    {"con":"157  Obssessive Red"}
+                ]
+            },
+            {
+                "divCon":[
+                    {"con":"162  Rouge Chic"},
+                    {"con":"172  Impatiente"}
+                ]
+            },
+            {
+                "divCon":[
+                    {"con":"188  Merlot"},
+                    {"con":"189  Isabella"}
+                ]
+            },
+            {
+                "divCon":[
+                  {"con":"193  Souvenir"},
+                  {"con":"237  Timide"},
+                  {"con":"238  Luxe"}
+                ]
+            },
+            {
+                "divCon":[
+                  {"con":"191  Jezebel"},
+                  {"con":"172  Lie De Vin"}
+              ]
+            },
+            {
+                "divCon":[
+                    {"con":"245  Amande Sucree"},
+                    {"con":"250  Beige Mirage"}
+                ]
+            },
+            {
+                "divCon":[
+                    {"con":"265  Perfect Fig"},
+                    {"con":"274  Sensualite"}
+                ]
+            },
+            {
+                "divCon":[
+                    {"con":"277  Si Seulement"},
+                    {"con":"283  Henne"}
+                ]
+            },
+            {
+                "divCon":[
+                    {"con":"162  Rouge Chic"},
+                    {"con":"172  Impatiente"}
+                ]
+            },
+            {
+                "divCon":[
+                    {"con":"188  Merlot"},
+                    {"con":"189  Isabella"}
+                ]
+            },
+            {
+                "divCon":[
+                    {"con":"191  Jezebel"},
+                    {"con":"172  Lie De Vin"}
+                ]
+            },
+            {
+                "divCon":[
+                    {"con":"193  Souvenir"},
+                    {"con":"237  Timide"},
+                    {"con":"238  Luxe"}
+               ]
+            },
+            {
+                "divCon":[
+                    {"con":"245  Amande Sucree"},
+                    {"con":"250  Beige Mirage"}
+                ]
+            },
+            {
+                "divCon":[
+                    {"con":"254  Creme De Marron"},
+                    {"con":"2b4  Peut-Etre"}
+                ]
+            },
+            {
+                "divCon":[
+                    {"con":"265  Perfect Fig"},
+                    {"con":"274  Sensualite"}
+                ]
+            },
+            {
+                "divCon":[
+                    {"con":"277  Si Seulement"},
+                    {"con":"283  Henne"}
+                ]
+            }
+
+        ]
+    },
+    "barCon":{
+        "img1":"../../../static/img/shlogo.jpg",
+        "img2":"../../../static/img/shopFlag.jpg",
+        "img3":"../../../static/img/bot.jpg",
+        "store":"商城  Bloomingdale's",
+        "limittime":"限时：全场免商家运费 ",
+        "img4":"../../../static/img/jt-r.jpg",
+        "reconmend":"相关推荐"
+    },
+    "listCon":[
+        {
+            "img1":"../../../static/img/add1.jpg",
+            "oH2":"Bloomingdale's",
+            "goodsTex":"兰蔻 | 菁纯柔润丰唇密",
+            "bluePrice":"$25   约￥176",
+            "straight":"美妆直通车"
+        },
+            {
+              "img1":"../../../static/img/add2.jpg",
+              "oH2":"Lord & Taylor",
+              "goodsTex":"兰蔻 | 菁纯柔润丰唇密",
+              "bluePrice":"$32   约￥224",
+              "straight":"美妆直通车"
+        },
+        {
+              "img1":"../../../static/img/add3.jpg",
+              "oH2":"Lord & Taylor",
+              "goodsTex":"兰蔻 | 限量红管菁纯柔唇膏",
+              "bluePrice":"$32   约￥224",
+              "straight":"美妆直通车"
+        },
+            {
+              "img1":"../../../static/img/add4.jpg",
+              "oH2":"Saks Fifth Avenue",
+              "goodsTex":"兰蔻 | 倾慕唇膏",
+              "bluePrice":"$25   约￥176",
+              "straight":"美妆直通车"
+        },
+        {
+              "img1":"../../../static/img/add5.jpg",
+              "oH2":"Lord & Taylor",
+              "goodsTex":"兰蔻 | 圣诞限量星辰菁纯柔唇膏",
+              "bluePrice":"$25   约￥176",
+              "straight":"美妆直通车"
+        }
+    ],
+    "content2":{
+        "oH2":"品牌介绍",
+        "lookMore":"查看更多Lancome商品",
+        "commentContent":"兰蔻1935年诞生于法国，是由Armand Petitjean (阿曼达.珀蒂让)创办的品牌。作为全球知名的高端化妆品品牌，兰蔻涉足护肤、彩妆、香水等多个产品领域，主要面向教育程度、收入水平较高，年龄在25~40岁的成熟女性"
+    }
+
+}
+
+
